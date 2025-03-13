@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 [submodule "child"]
 	path = child
+=======
+[submodule "child2"]
+	path = child2
+>>>>>>> aceeb750d9cb89db44902985609ca4aaa9e9e77d
 	url = git@github.com:996wuxian/text.git
